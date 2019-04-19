@@ -56,13 +56,13 @@
     <artifactId>google-api-services-people</artifactId>
     <version>v1-rev432-1.25.0</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/org.eclipse/eclipse-workbench -->
+           <!-- https://mvnrepository.com/artifact/com.google.code.findbugs/jsr305 -->
 <dependency>
-    <groupId>org.eclipse</groupId>
-    <artifactId>eclipse-workbench</artifactId>
-    <version>3.6.1.M20100826-1330</version>
-    <scope>provided</scope>
+    <groupId>com.google.code.findbugs</groupId>
+    <artifactId>jsr305</artifactId>
+    <version>3.0.2</version>
 </dependency>
+
 <!-- https://mvnrepository.com/artifact/com.intellij/annotations -->
 <dependency>
     <groupId>com.intellij</groupId>
